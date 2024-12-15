@@ -46,7 +46,7 @@ The RPG Adventure Game is an interactive browser-based role-playing game where p
 
 ## Installation
 
-1. ###Clone the repository:
+1. ### Clone the repository:
 
 ```git clone https://github.com/yourusername/rpg-adventure-game.git```
 
@@ -116,7 +116,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Screenshots
 
-[Game Page]((images/home.jpg))
+https://github.com/opeadedotun/rolePlayingGame/blob/main/images/home.jpg
 
 
 ## Contact
