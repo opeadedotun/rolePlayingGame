@@ -116,8 +116,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Screenshots
 
-<embed src="https://github.com/opeadedotun/rolePlayingGame/blob/main/images/home.jpg" type="jpg">
-
+!images/home.jpg
 
 ## Contact
 
