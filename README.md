@@ -116,7 +116,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Screenshots
 
-!images/home.jpg
+![home](https://github.com/user-attachments/assets/7c22caad-3a23-4656-b3f0-bcca86f43bd7)
 
 ## Contact
 
